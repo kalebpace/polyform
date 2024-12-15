@@ -37,7 +37,6 @@
               old
               // {
                 inherit GOOS GOARCH;
-                CGO_ENABLED = 0;
               }
             );
 
